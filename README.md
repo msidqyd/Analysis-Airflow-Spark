@@ -1,4 +1,4 @@
-![Screenshot 2025-06-15 224732](https://github.com/user-attachments/assets/45f1cd55-9ee5-4869-b687-f790deb13bf7)
+
 # 🌀 Batch Processing of Retail Data with Airflow & PySpark
 
 This project demonstrates how to perform **batch data processing** using **Apache Airflow** and **PySpark**, with output written to a **PostgreSQL** data warehouse. 
