@@ -1,3 +1,4 @@
+![Screenshot 2025-06-15 224732](https://github.com/user-attachments/assets/45f1cd55-9ee5-4869-b687-f790deb13bf7)
 # 🌀 Batch Processing of Retail Data with Airflow & PySpark
 
 This project demonstrates how to perform **batch data processing** using **Apache Airflow** and **PySpark**, with output written to a **PostgreSQL** data warehouse. It automates a full ETL pipeline that loads, cleans, transforms, and analyzes retail data.
@@ -83,9 +84,13 @@ Final analysis results are written into **PostgreSQL** under:
 
 Accessible via DBeaver, pgAdmin, or through any PostgreSQL client.
 
+
 ---
 
 ## 📘 Documentation
-
+![Screenshot 2025-06-15 224745](https://github.com/user-attachments/assets/3d759bcf-e07e-4f45-bcac-880892f0921f)
+![Screenshot 2025-06-15 224255](https://github.com/user-attachments/assets/29bfcca6-9177-4288-8f9d-f22fbff2b1c3)
+![Screenshot 2025-06-15 230859](https://github.com/user-attachments/assets/112b7184-398d-483a-bba6-41c2f3c0a018)
+![Screenshot 2025-06-15 224454](https://github.com/user-attachments/assets/55625632-37f3-41f2-92d3-2c3b4aa92af9)
 
 ---
